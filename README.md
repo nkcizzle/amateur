@@ -1,0 +1,2 @@
+# amateur
+beginner programming codes
